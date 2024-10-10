@@ -1,5 +1,5 @@
 # BE-IOT
-# tạo db với tên csdl
+# tạo db với tên 'iot-nhom1
 # tải nodejs bản 14 chạy lệnh npm i ở terminal r npm start r chạy sql này
 INSERT INTO ALLCODES (ALLCODES.type,ALLCODES.keyMap, ALLCODES.valueV) values ('GENDER','M', 'Nam' ); 
 INSERT INTO ALLCODES (ALLCODES.type,ALLCODES.keyMap, ALLCODES.valueV) values ('GENDER','F', 'Nữ' ); 
